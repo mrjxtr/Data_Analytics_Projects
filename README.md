@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @mr-jxtr
-- 👀 I’m interested in ... coding, and data science
-- 🌱 I’m currently learning ... all things about data science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+DATA CLEANING (CUSTOMER CALL LIST)
+The Call Center requested their call list only to show customers they can call.
 
-<!---
-mr-jxtr/mr-jxtr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+1. Remove duplicates.
+2. Remove unnecessary columns.
+3. Remove all customer data with no phone numbers.
+4. Remove all customer data that had Do not contact set as "yes".
+5. Must have uniform data formats.
+6. Export new data into an Excel file.
