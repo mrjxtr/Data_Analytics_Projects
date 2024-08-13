@@ -9,6 +9,17 @@ Click the link to see it in the public tableau.
 Link: [View in Tableau](https://public.tableau.com/views/Coffee_Sales_Updated/SEMI-ANNUALSALESDASHBOARD?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
+### Business Task:
+
+
+
+- Identify the coffee type with the highest sales and strategies to boost overall sales.
+
+- Determine the top-performing employee in terms of sales.
+
+- Assess sales volume to optimize inventory and prevent shortages.
+
+
 ### Process:
 
 
